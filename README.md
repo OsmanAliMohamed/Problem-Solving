@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/OsmanAliMohamed/Problem-Solving/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/OsmanAliMohamed/Problem-Solving/tree/master/0035-search-insert-position) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/OsmanAliMohamed/Problem-Solving/tree/master/0002-add-two-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/OsmanAliMohamed/Problem-Solving/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
